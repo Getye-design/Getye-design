@@ -1,0 +1,33 @@
+/* General styles for the entire HTML document */
+html {
+    font-family: "Avenir Next", Helvetica, sans-serif; /* Font family for the document */
+    text-align: center; /* Center-align text in the document */
+}
+
+/* Styles for the body of the page */
+body {
+    max-width: 500px; /* Set the maximum width of the content */
+    margin: 0 auto; /* Center the body horizontally */
+}
+
+/* Styles for input fields */
+input {
+    padding-top: 30px; /* Add padding to the top of the input */
+    width: 500px; /* Set the width of the input field */
+    height: 60px; /* Set the height of the input field */
+    font-size: 40px; /* Set the font size for the input text */
+    border: 0; /* Remove the border around the input field */
+}
+
+/* Styles for input fields when focused */
+input:focus {
+    outline: none; /* Remove the default outline when the input is focused */
+}
+
+/* Styles for list items */
+li {
+    text-align: left; /* Align text to the left */
+    font-size: 40px; /* Set the font size for list items */
+    list-style: none; /* Remove default bullet points from the list */
+    margin: 0; /* Remove default margin around list items */
+}

@@ -1,7 +1,7 @@
 //A function using a while loop
 function count_to_ten() {
-    var Digit ="";
-    var x = 1;
+    let Digit ="";
+    let x = 1;
     while (x < 11) {
         Digit += "<br>" + x;
         x++;
@@ -12,18 +12,18 @@ function count_to_ten() {
 
 //A function using a for loop
 
-var Instruments = ["Guitar", "Drums", "piano", "bass"];
-var Content = "";
-var Y;
+let Instruments = ["Guitar", "Drums", "piano", "bass"];
+let Content = "";
+let Y;
 function for_Loop() {
-    for (Y = 0; Y < Instruments.length; Y++) {
+    for (let Y = 0; Y < Instruments.length; Y++) {
         Content += Instruments[Y] + "<br>";
     }
     document.getElementById("List_of_Instruments").innerHTML = Content;
 }
 //A function with an array
 function color_array() {
-    var Colors = [];
+    let Colors = [];
     Colors[1] ="Green";
     Colors[2] ="Red";
     Colors[3] ="Blue";
@@ -42,6 +42,6 @@ function car() {
         year: "2023",
         color: "Blue",
     };
-    document.getElementById("car").innerHTML =
+    document.getElementById("car").innerHTML = 
         "I have a " + car.year + " " + car.color + " " + car.make + "."
 }

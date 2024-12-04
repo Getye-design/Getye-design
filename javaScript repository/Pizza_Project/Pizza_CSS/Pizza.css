@@ -1,0 +1,90 @@
+/* Set the background color for the entire page */
+body {
+    background-color: rgb(218, 89, 3);
+}
+
+/* Style for the main heading */
+h1 {
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+
+/* Style for subheadings */
+h3 {
+    font-family: Arial;
+    color: snow;
+}
+
+/* General styles for all div elements */
+div {
+    color: lightyellow;
+    font-family: monospace;
+}
+
+/* Styling for the menu container */
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin: 10px auto; /* Center the menu horizontally */
+}
+
+/* Styling for the form containing menu options */
+#frmMenu {
+    width: 600px;
+    height: 200px;
+}
+
+/* Styling for the total price container */
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 20px auto;
+    float: right; /* Align the total price box to the right */
+}
+
+/* Styling for the left menu section */
+.left {
+    width: 200px;
+    height: 200px;
+    float: left; /* Align this section to the left */
+}
+
+/* Styling for the center menu section */
+.center {
+    width: 200px;
+    height: 200px;
+    float: left; /* Align this section to the left */
+}
+
+/* Styling for the right menu section */
+.right {
+    width: 200px;
+    height: 200px;
+    float: right; /* Align this section to the right */
+}
+
+/* Styling for the text box displaying the order summary */
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto; /* Center the text box */
+    float: left; /* Align this section to the left */
+}
+
+/* Styling for the cart container */
+#cart {
+    top: 0;
+    margin: 0 auto; /* Center the cart horizontally */
+    width: 400px;
+    height: 200px;
+}
+
+/* Styling for the "Place Order" button */
+#btnOrder {
+    margin: 10px 0 0 100px; /* Add spacing around the button */
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 25px auto; /* Center the button horizontally */
+}

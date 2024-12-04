@@ -1,0 +1,258 @@
+/***** GENERAL STYLING *****/
+
+/* Variables for consistent styling */
+:root {
+    --main-color: #1a1a1a; /* Main text color */
+    --hover-color: #fbff00; /* Highlight color */
+    --background-color-light: #f2f2f2; /* Light background color */
+    --background-color-dark: #4d4d4d; /* Dark background color */
+}
+
+/* Global reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    margin: 0; /* Ensure the site displays to the screen edges */
+    font-family: "Avenir Next", Helvetica, sans-serif; /* Default font family */
+    color: var(--main-color); /* Default text color */
+}
+
+/* Heading 1 */
+h1 {
+    text-transform: uppercase;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+    margin-top: 3%;
+    color: var(--main-color);
+    transition: transform 0.3s ease, filter 0.3s ease; /* Smooth transitions */
+}
+
+h1:hover {
+    filter: grayscale(5%);
+    transform: scale(1.05); /* Subtle hover effect */
+}
+
+/* Paragraphs */
+p {
+    font-family: Perpetua, Rockwell Extra Bold;
+    text-align: justify;
+    letter-spacing: 1px;
+    font-size: 20px;
+    padding: 0 20px; /* Horizontal padding */
+    line-height: 1.6; /* Better text spacing */
+}
+
+p:hover {
+    transform: scale(1.02); /* Subtle hover effect */
+    transition: transform 0.3s ease;
+}
+
+/* Links */
+a {
+    color: blue;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--hover-color); /* Highlight links on hover */
+}
+
+/* Centered elements */
+.center {
+    text-align: center;
+}
+
+/* Images */
+img {
+    filter: grayscale(75%);
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 20px auto; /* Center images with margin */
+    transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+img:hover {
+    filter: grayscale(0%); /* Restore color on hover */
+    transform: scale(1.05);
+}
+
+/* Media queries for smaller screens */
+@media screen and (max-width: 576px) {
+    img {
+        height: auto;
+        margin-top: 20px;
+    }
+}
+
+/* Footer */
+footer {
+    padding: 2%;
+    background-color: var(--background-color-light);
+    text-align: center;
+    font-size: 14px;
+}
+/***** END OF GENERAL STYLING *****/
+
+/***** NAVBAR STYLING *****/
+
+.Navbar {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    animation: slideIn 1s ease-out; /* Faster navbar animation */
+}
+
+@keyframes slideIn {
+    from {
+        left: -100vw;
+    }
+    to {
+        left: 0;
+    }
+}
+
+.Navbar a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    font-family: Avant Garde, Helvetica;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.Navbar a:hover {
+    background-color: var(--hover-color);
+    color: black;
+    font-weight: bold;
+}
+
+.Navbar a.active {
+    background-color: var(--hover-color);
+    color: black;
+}
+
+/* Navbar responsiveness */
+@media screen and (max-width: 576px) {
+    .Navbar a {
+        width: 25%;
+        font-size: 12px;
+    }
+}
+/***** END OF NAVBAR STYLING *****/
+
+/***** VIDEO STYLING *****/
+
+#Typing_Video {
+    position: fixed;
+    right: 5%;
+    bottom: 40%;
+    min-width: 100%;
+    z-index: -1;
+}
+
+@media screen and (max-width: 576px) {
+    #Typing_Video {
+        display: none; /* Hide video on small screens */
+    }
+}
+
+.Video_Text {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 100%;
+    padding: 20px;
+    animation: fadeIn 1s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+/***** END OF VIDEO STYLING *****/
+
+/***** TABLE STYLING *****/
+
+.Column_1, .Column_2 {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    background-color: var(--background-color-light);
+}
+
+.Column_2 {
+    background-color: var(--background-color-dark);
+}
+
+.Column_tall {
+    height: 450px;
+}
+
+.Row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/***** END OF TABLE STYLING *****/
+
+/***** FORM STYLING *****/
+
+form {
+    background-color: var(--background-color-light);
+    border-radius: 5px;
+    padding: 20px;
+    font-family: "Trebuchet MS", Optima;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Perpetua, Rockwell Extra Bold;
+}
+
+input[type="text"]:hover, input[type="email"]:hover, textarea:hover {
+    box-shadow: 0 0 5px #00004d inset;
+}
+
+input[type="submit"] {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: white;
+    color: black;
+    transform: scale(1.1);
+}
+
+textarea {
+    resize: vertical; /* Allow vertical resizing */
+}
+/***** END OF FORM STYLING *****/

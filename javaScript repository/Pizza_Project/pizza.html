@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Page title -->
+    <title>Pizza Drill</title>
+    <!-- Metadata for proper display on different devices and character encoding -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta content="width=device-width,initial-scale=1.0" name="viewport">
+    <!-- Linking external CSS file for styling -->
+    <link rel="stylesheet" type="text/css" href="Pizza_CSS/Pizza.css" />
+</head>
+<body>
+    <!-- Main container for the menu and content -->
+    <div id="menuBG">
+        <!-- Header title -->
+        <h1 style="margin:0 0px 0 20px;">Pizza Drill</h1>
+        <!-- Button to place an order, triggers the JavaScript function `getReceipt()` -->
+        <input id="btnOrder" type="button" onclick="getReceipt()" value="Place Order">
+        <!-- Form containing pizza size and topping options -->
+        <form id="frmMenu">
+            <!-- Section for selecting pizza size -->
+            <div class="menu left">
+                <h3>Size:</h3>
+                <!-- Radio buttons for pizza sizes; only one can be selected -->
+                <input class="size" type="radio" name="Size" value="Small Pizza"> Small Pizza<br>
+                <input class="size" type="radio" name="Size" value="Medium Pizza"> Medium Pizza<br>
+                <input class="size" type="radio" name="Size" value="Large Pizza" checked> Large Pizza<br>
+                <input class="size" type="radio" name="Size" value="Extra Large Pizza"> Extra Large Pizza<br>
+                <input class="size" type="radio" name="Size" value="Party Pizza"> Party Pizza<br>
+            </div>
+            <!-- Section for selecting vegetable toppings -->
+            <div class="menu center">
+                <h3>Vegetables:</h3>
+                <!-- Checkbox options for vegetable toppings; multiple can be selected -->
+                <input class="toppings" type="checkbox" name="Topping" value=" Fresh Mushrooms"> Fresh Mushrooms<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Red Onions"> Red Onions<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Roma Tomatoes"> Roma Tomatoes <br>
+                <input class="toppings" type="checkbox" name="Topping" value="Green Olives"> Green Olives<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Green Peppers"> Green Peppers<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Broccoli"> Broccoli <br>
+                <input class="toppings" type="checkbox" name="Topping" value="Bruschetta"> Bruschetta <br>
+            </div>
+            <!-- Section for selecting meat toppings -->
+            <div class="menu right">
+                <h3>Meats:</h3>
+                <!-- Checkbox options for meat toppings; multiple can be selected -->
+                <input class="toppings" type="checkbox" name="Topping" value="Pepperoni"> Pepperoni<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Sausage"> Sausage<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Bacon Crumble"> Bacon Crumble<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Ground Beef"> Ground Beef<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Anchovy"> Anchovy<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Grilled Chicken"> Grilled Chicken<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Salami"> Salami<br>
+                <input class="toppings" type="checkbox" name="Topping" value="Butter Chicken"> Butter Chicken <br>
+            </div>
+            <!-- Section for displaying the order summary and total price -->
+            <div id="cart">
+                <div id="showText"></div> <!-- Displays the order summary -->
+                <div id="totalPrice"></div> <!-- Displays the total price -->
+            </div>
+        </form>
+    </div>
+    <!-- Link to external JavaScript file containing the logic for processing the order -->
+    <script src="Pizza_JavaScript/Pizza.js"></script>
+</body>
+</html>
