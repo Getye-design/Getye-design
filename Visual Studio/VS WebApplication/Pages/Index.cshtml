@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My Favorite Song";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h1>My Favorite Song 🎵</h1>
+
+    <!-- Embedded YouTube Video -->
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pyVXgAenuSo?si=lsqpfcKwrOHIU8Lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Animated Box -->
+    <div id="animated-box">Watch me move!</div>
+
+    <script src="~/js/site.js"></script>
+</body>
+</html>

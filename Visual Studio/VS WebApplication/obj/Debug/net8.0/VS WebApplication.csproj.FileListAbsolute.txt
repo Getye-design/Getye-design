@@ -1,0 +1,35 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.staticwebassets.runtime.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.staticwebassets.endpoints.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\bin\Debug\net8.0\VS WebApplication.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.RazorAssemblyInfo.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.RazorAssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\scopedcss\bundle\VS WebApplication.styles.css
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\scopedcss\projectbundle\VS WebApplication.bundle.scp.css
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.VS WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.VS WebApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.VS WebApplication.props
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VS WebApplication.props
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VS WebApplication.props
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\refint\VS WebApplication.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\VS WebApplication.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\VS WebApplication\obj\Debug\net8.0\ref\VS WebApplication.dll
