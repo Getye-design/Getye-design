@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\bin\Debug\net8.0\Console App Strings and Integers Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\bin\Debug\net8.0\Console App Strings and Integers Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\bin\Debug\net8.0\Console App Strings and Integers Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\bin\Debug\net8.0\Console App Strings and Integers Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\bin\Debug\net8.0\Console App Strings and Integers Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\refint\Console App Strings and Integers Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\Console App Strings and Integers Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Strings and Integers Assignment\obj\Debug\net8.0\ref\Console App Strings and Integers Assignment.dll

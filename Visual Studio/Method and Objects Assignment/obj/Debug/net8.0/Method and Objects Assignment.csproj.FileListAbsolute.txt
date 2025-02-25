@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\bin\Debug\net8.0\Method and Objects Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\bin\Debug\net8.0\Method and Objects Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\bin\Debug\net8.0\Method and Objects Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\bin\Debug\net8.0\Method and Objects Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\bin\Debug\net8.0\Method and Objects Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\refint\Method and Objects Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\Method and Objects Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method and Objects Assignment\obj\Debug\net8.0\ref\Method and Objects Assignment.dll

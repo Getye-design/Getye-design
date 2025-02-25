@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\bin\Debug\net8.0\Math and Comparison Oprators Assigment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\bin\Debug\net8.0\Math and Comparison Oprators Assigment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\bin\Debug\net8.0\Math and Comparison Oprators Assigment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\bin\Debug\net8.0\Math and Comparison Oprators Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\bin\Debug\net8.0\Math and Comparison Oprators Assigment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\refint\Math and Comparison Oprators Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\Math and Comparison Oprators Assigment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Math and Comparison Oprators Assigment\obj\Debug\net8.0\ref\Math and Comparison Oprators Assigment.dll

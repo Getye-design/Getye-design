@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\bin\Debug\net8.0\Car Insurance Approval.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\bin\Debug\net8.0\Car Insurance Approval.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\bin\Debug\net8.0\Car Insurance Approval.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\bin\Debug\net8.0\Car Insurance Approval.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\bin\Debug\net8.0\Car Insurance Approval.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\refint\Car Insurance Approval.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\Car Insurance Approval.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Car Insurance Approval\obj\Debug\net8.0\ref\Car Insurance Approval.dll

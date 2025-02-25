@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\bin\Debug\net8.0\Console Application Assigment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\bin\Debug\net8.0\Console Application Assigment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\bin\Debug\net8.0\Console Application Assigment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\bin\Debug\net8.0\Console Application Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\bin\Debug\net8.0\Console Application Assigment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\refint\Console Application Assigment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\Console Application Assigment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console Application Assigment\obj\Debug\net8.0\ref\Console Application Assigment.dll

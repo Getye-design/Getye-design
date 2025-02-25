@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Operators Assignment Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69777D54-D3F9-4C2E-AD0A-3E913F9450DA}|Operators Assignment Submission.csproj|c:\\users\\meaza\\documents\\github\\getye-design\\visual studio\\operators assignment submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69777D54-D3F9-4C2E-AD0A-3E913F9450DA}|Operators Assignment Submission.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Operators Assignment Submission\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Operators Assignment Submission\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:17:36.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

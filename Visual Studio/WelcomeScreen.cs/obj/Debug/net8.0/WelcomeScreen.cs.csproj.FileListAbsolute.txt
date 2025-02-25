@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\bin\Debug\net8.0\WelcomeScreen.cs.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\bin\Debug\net8.0\WelcomeScreen.cs.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\bin\Debug\net8.0\WelcomeScreen.cs.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\bin\Debug\net8.0\WelcomeScreen.cs.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\bin\Debug\net8.0\WelcomeScreen.cs.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\refint\WelcomeScreen.cs.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\WelcomeScreen.cs.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\WelcomeScreen.cs\obj\Debug\net8.0\ref\WelcomeScreen.cs.dll

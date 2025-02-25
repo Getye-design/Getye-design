@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\bin\Debug\net8.0\Main Methods Assignment 2.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\bin\Debug\net8.0\Main Methods Assignment 2.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\bin\Debug\net8.0\Main Methods Assignment 2.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\bin\Debug\net8.0\Main Methods Assignment 2.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\bin\Debug\net8.0\Main Methods Assignment 2.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\refint\Main Methods Assignment 2.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\Main Methods Assignment 2.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Main Methods Assignment 2\obj\Debug\net8.0\ref\Main Methods Assignment 2.dll

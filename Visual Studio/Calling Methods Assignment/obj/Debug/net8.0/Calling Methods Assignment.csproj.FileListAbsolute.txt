@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\bin\Debug\net8.0\Calling Methods Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\bin\Debug\net8.0\Calling Methods Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\bin\Debug\net8.0\Calling Methods Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\bin\Debug\net8.0\Calling Methods Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\bin\Debug\net8.0\Calling Methods Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\refint\Calling Methods Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\Calling Methods Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Calling Methods Assignment\obj\Debug\net8.0\ref\Calling Methods Assignment.dll

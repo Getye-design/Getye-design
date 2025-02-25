@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\bin\Debug\net8.0\Class Method Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\bin\Debug\net8.0\Class Method Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\bin\Debug\net8.0\Class Method Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\bin\Debug\net8.0\Class Method Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\bin\Debug\net8.0\Class Method Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\refint\Class Method Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\Class Method Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Class Method Assignment\obj\Debug\net8.0\ref\Class Method Assignment.dll

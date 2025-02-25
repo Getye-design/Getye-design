@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\bin\Debug\net8.0\Abstract Class Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\bin\Debug\net8.0\Abstract Class Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\bin\Debug\net8.0\Abstract Class Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\bin\Debug\net8.0\Abstract Class Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\bin\Debug\net8.0\Abstract Class Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\refint\Abstract Class Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\Abstract Class Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Abstract Class Assignment\obj\Debug\net8.0\ref\Abstract Class Assignment.dll

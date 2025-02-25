@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\bin\Debug\net8.0\Parsing Enums Assignment.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\bin\Debug\net8.0\Parsing Enums Assignment.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\bin\Debug\net8.0\Parsing Enums Assignment.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\bin\Debug\net8.0\Parsing Enums Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\bin\Debug\net8.0\Parsing Enums Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\refint\Parsing Enums Assignment.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\Parsing Enums Assignment.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Parsing Enums Assignment\obj\Debug\net8.0\ref\Parsing Enums Assignment.dll

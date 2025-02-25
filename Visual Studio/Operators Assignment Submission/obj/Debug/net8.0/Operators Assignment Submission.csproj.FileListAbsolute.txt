@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\bin\Debug\net8.0\Operators Assignment Submission.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\refint\Operators Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\Operators Assignment Submission.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Operators Assignment Submission\obj\Debug\net8.0\ref\Operators Assignment Submission.dll

@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\bin\Debug\net8.0\Method Class Assignment Submission.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\bin\Debug\net8.0\Method Class Assignment Submission.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\bin\Debug\net8.0\Method Class Assignment Submission.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\bin\Debug\net8.0\Method Class Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\bin\Debug\net8.0\Method Class Assignment Submission.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\refint\Method Class Assignment Submission.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\Method Class Assignment Submission.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Method Class Assignment Submission\obj\Debug\net8.0\ref\Method Class Assignment Submission.dll

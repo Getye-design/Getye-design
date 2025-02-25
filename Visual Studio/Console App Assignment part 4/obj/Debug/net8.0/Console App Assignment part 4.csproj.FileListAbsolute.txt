@@ -1,0 +1,15 @@
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\bin\Debug\net8.0\Console App Assignment part 4.exe
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\bin\Debug\net8.0\Console App Assignment part 4.deps.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\bin\Debug\net8.0\Console App Assignment part 4.runtimeconfig.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\bin\Debug\net8.0\Console App Assignment part 4.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\bin\Debug\net8.0\Console App Assignment part 4.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.AssemblyInfoInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.AssemblyInfo.cs
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.csproj.CoreCompileInputs.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.sourcelink.json
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\refint\Console App Assignment part 4.dll
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.pdb
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\Console App Assignment part 4.genruntimeconfig.cache
+C:\Users\Meaza\Documents\GitHub\Getye-design\Visual Studio\Console App Assignment part 4\obj\Debug\net8.0\ref\Console App Assignment part 4.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Method Class Assignment Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF11E511-0AD9-4DBF-B225-3A9CC85D98CE}|Method Class Assignment Submission.csproj|c:\\users\\meaza\\documents\\github\\getye-design\\visual studio\\method class assignment submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF11E511-0AD9-4DBF-B225-3A9CC85D98CE}|Method Class Assignment Submission.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Method Class Assignment Submission\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Meaza\\Documents\\GitHub\\Getye-design\\Visual Studio\\Method Class Assignment Submission\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:30:37.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
